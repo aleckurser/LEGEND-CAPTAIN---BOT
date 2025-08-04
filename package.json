@@ -1,12 +1,12 @@
 {
-  "name": "SENU-MD",
+  "name": "CAPTAIN_LEGEND-BOT",
   "version": "4.5.0",
-  "description": "A WhatsApp Bot Created By JESTER",
+  "description": "A multi functional whatsapp bot.",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name SENU-MD",
-    "stop": "pm2 stop SENU-MD",
-    "restart": "pm2 restart SENU-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name CAPTAIN_LEGEND-BOT",
+    "stop": "pm2 stop CAPTAIN_LEGEND-BOT",
+    "restart": "pm2 restart CAPTAIN_LEGEND-BOT",
   },
   "dependencies": {
     "@whiskeysockets/baileys": "latest",
